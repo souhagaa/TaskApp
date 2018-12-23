@@ -1,0 +1,16 @@
+<taches>
+<tache>
+<id>0</id>
+<titre>Projet A</titre>
+<description>test</description>
+<beforeTime>2018-12-20T00:00</beforeTime>
+<status>1</status>
+</tache>
+<tache>
+<id>0</id>
+<titre>Example of task here</titre>
+<description>here is the description and you can mark tasks as done.</description>
+<beforeTime>2019-01-02T00:00</beforeTime>
+<status>0</status>
+</tache>
+</taches>
